@@ -5,8 +5,7 @@
     <link>https://www.cyberbull.sh/post/</link>
     <description>Recent content in Blog on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://www.cyberbull.sh/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.cyberbull.sh/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cmd Test</title>
       <link>https://www.cyberbull.sh/cmd-test/</link>
